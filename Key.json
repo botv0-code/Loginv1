@@ -7,16 +7,28 @@
   "renewUrl": "https://t.me/suliso",
   "devices": [
     {
-      "device_id": "9a49a6f79d6b6f34",
-      "username": "admin",
+      "device_id": "591a2a49ce8ca4dc",
+      "username": "dpmods",
       "password": "12345",
-      "expire_date": "2026-01-01"
+      "expire_date": "2025-10-20"
     },
     {
       "device_id": "abcdef9876543210",
       "username": "demo",
       "password": "demo123",
       "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "testdevice11223344",
+      "username": "user",
+      "password": "pass",
+      "expire_date": "2026-06-01"
+    },
+    {
+      "device_id": "9a49a6f79d6b6f34",
+      "username": "suliso",
+      "password": "okelah",
+      "expire_date": "2025-12-12"
     }
   ]
 }
